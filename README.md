@@ -34,12 +34,11 @@ The app processes **pollutant and environmental inputs** like SO₂, NO₂, CO, 
 ```bash
 git clone https://github.com/YourUsername/Ensembled-AQIBD.git
 cd Ensembled-AQIBD
----
 
-2. Create Virtual Environment (Optional)
+### 2. Create Virtual Environment (Optional)
 python -m venv venv
 venv\Scripts\activate    # On Windows
 source venv/bin/activate # On macOS/Linux
 
-3. Install Dependencies
+### 3. Install Dependencies
 pip install -r requirements.txt
